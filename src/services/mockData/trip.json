@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "name": "European Grand Tour",
+    "startDate": "2024-06-15",
+    "endDate": "2024-07-05",
+    "coverImage": "https://images.unsplash.com/photo-1520637836862-4d197d17c55a?w=800",
+    "description": "A comprehensive 3-week journey through Europe's most iconic cities, experiencing rich history, diverse cultures, and stunning architecture.",
+    "destinations": ["1", "2", "3"],
+    "budget": "1"
+  },
+  {
+    "id": "2",
+    "name": "Southeast Asia Adventure",
+    "startDate": "2024-09-10",
+    "endDate": "2024-10-08",
+    "coverImage": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
+    "description": "An exciting adventure through Thailand, Vietnam, and Cambodia, exploring ancient temples, bustling markets, and pristine beaches.",
+    "destinations": ["4", "5"],
+    "budget": "2"
+  },
+  {
+    "id": "3",
+    "name": "Japan Cherry Blossom Tour",
+    "startDate": "2024-04-01",
+    "endDate": "2024-04-14",
+    "coverImage": "https://images.unsplash.com/photo-1490806843957-31f4c9a91c65?w=800",
+    "description": "Experience the magical cherry blossom season in Japan, visiting Tokyo, Kyoto, and Osaka during peak bloom time.",
+    "destinations": ["6", "7"],
+    "budget": "3"
+  },
+  {
+    "id": "4",
+    "name": "Australian Outback Explorer",
+    "startDate": "2024-08-20",
+    "endDate": "2024-09-05",
+    "coverImage": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+    "description": "Discover the rugged beauty of Australia's Red Centre, from Uluru to Alice Springs, with unforgettable wildlife encounters.",
+    "destinations": ["8"],
+    "budget": "4"
+  },
+  {
+    "id": "5",
+    "name": "Scandinavian Northern Lights",
+    "startDate": "2024-11-15",
+    "endDate": "2024-12-01",
+    "coverImage": "https://images.unsplash.com/photo-1539593395743-7da5ee10ff07?w=800",
+    "description": "Chase the Northern Lights across Norway, Sweden, and Finland during the optimal viewing season.",
+    "destinations": ["9", "10"],
+    "budget": "5"
+  },
+  {
+    "id": "6",
+    "name": "Morocco Desert Expedition",
+    "startDate": "2024-03-10",
+    "endDate": "2024-03-25",
+    "coverImage": "https://images.unsplash.com/photo-1539650116574-75c0c6d73073?w=800",
+    "description": "Journey through imperial cities and sleep under the stars in the Sahara Desert in this authentic Moroccan adventure.",
+    "destinations": ["11"],
+    "budget": "6"
+  },
+  {
+    "id": "7",
+    "name": "New Zealand Road Trip",
+    "startDate": "2024-01-15",
+    "endDate": "2024-02-10",
+    "coverImage": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800",
+    "description": "Epic road trip across both North and South Islands, experiencing breathtaking landscapes and adventure activities.",
+    "destinations": ["12", "13"],
+    "budget": "7"
+  },
+  {
+    "id": "8",
+    "name": "Costa Rica Eco Adventure",
+    "startDate": "2024-07-20",
+    "endDate": "2024-08-05",
+    "coverImage": "https://images.unsplash.com/photo-1582538885592-e70a5d7ab3d3?w=800",
+    "description": "Explore Costa Rica's incredible biodiversity, from cloud forests to pristine beaches, with sustainable travel practices.",
+    "destinations": ["14"],
+    "budget": "8"
+  },
+  {
+    "id": "9",
+    "name": "Peru Machu Picchu Trek",
+    "startDate": "2024-05-10",
+    "endDate": "2024-05-25",
+    "coverImage": "https://images.unsplash.com/photo-1587595431973-160d0d94add1?w=800",
+    "description": "Trek the ancient Inca Trail to Machu Picchu and explore the cultural treasures of Cusco and the Sacred Valley.",
+    "destinations": ["15"],
+    "budget": "9"
+  },
+  {
+    "id": "10",
+    "name": "Canadian Rocky Mountains",
+    "startDate": "2024-07-01",
+    "endDate": "2024-07-18",
+    "coverImage": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+    "description": "Explore the stunning Canadian Rockies, with hiking, wildlife viewing, and pristine mountain lakes in Banff and Jasper.",
+    "destinations": ["16"],
+    "budget": "10"
+  }
+]

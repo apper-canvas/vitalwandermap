@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "totalBudget": 8500,
+    "expenses": ["1", "2", "3", "4", "5"],
+    "currency": "USD"
+  },
+  {
+    "id": "2",
+    "totalBudget": 6200,
+    "expenses": ["6", "7", "8", "9"],
+    "currency": "USD"
+  },
+  {
+    "id": "3",
+    "totalBudget": 7800,
+    "expenses": ["10", "11", "12", "13"],
+    "currency": "USD"
+  },
+  {
+    "id": "4",
+    "totalBudget": 5500,
+    "expenses": ["14", "15", "16"],
+    "currency": "AUD"
+  },
+  {
+    "id": "5",
+    "totalBudget": 4200,
+    "expenses": ["17", "18", "19"],
+    "currency": "EUR"
+  },
+  {
+    "id": "6",
+    "totalBudget": 3800,
+    "expenses": ["20", "21", "22"],
+    "currency": "USD"
+  },
+  {
+    "id": "7",
+    "totalBudget": 9200,
+    "expenses": ["23", "24", "25", "26"],
+    "currency": "NZD"
+  },
+  {
+    "id": "8",
+    "totalBudget": 4500,
+    "expenses": ["27", "28", "29"],
+    "currency": "USD"
+  },
+  {
+    "id": "9",
+    "totalBudget": 3200,
+    "expenses": ["30", "31", "32"],
+    "currency": "USD"
+  },
+  {
+    "id": "10",
+    "totalBudget": 6800,
+    "expenses": ["33", "34", "35"],
+    "currency": "CAD"
+  }
+]

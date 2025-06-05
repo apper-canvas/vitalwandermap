@@ -1,0 +1,282 @@
+[
+  {
+    "id": "1",
+    "amount": 1200,
+    "category": "accommodation",
+    "description": "Hotel des Grands Boulevards - 7 nights",
+    "date": "2024-06-15",
+    "isPaid": true
+  },
+  {
+    "id": "2",
+    "amount": 850,
+    "category": "transport",
+    "description": "Round-trip flights to Paris",
+    "date": "2024-06-10",
+    "isPaid": true
+  },
+  {
+    "id": "3",
+    "amount": 180,
+    "category": "food",
+    "description": "Seine River dinner cruise",
+    "date": "2024-06-19",
+    "isPaid": false
+  },
+  {
+    "id": "4",
+    "amount": 75,
+    "category": "entertainment",
+    "description": "Louvre Museum tickets",
+    "date": "2024-06-17",
+    "isPaid": true
+  },
+  {
+    "id": "5",
+    "amount": 45,
+    "category": "transport",
+    "description": "Local metro passes",
+    "date": "2024-06-15",
+    "isPaid": true
+  },
+  {
+    "id": "6",
+    "amount": 980,
+    "category": "accommodation",
+    "description": "The Siam Hotel Bangkok - 8 nights",
+    "date": "2024-09-10",
+    "isPaid": true
+  },
+  {
+    "id": "7",
+    "amount": 1200,
+    "category": "transport",
+    "description": "International flights to Bangkok",
+    "date": "2024-09-05",
+    "isPaid": true
+  },
+  {
+    "id": "8",
+    "amount": 65,
+    "category": "entertainment",
+    "description": "Grand Palace entrance fees",
+    "date": "2024-09-11",
+    "isPaid": false
+  },
+  {
+    "id": "9",
+    "amount": 120,
+    "category": "food",
+    "description": "Floating market tour with lunch",
+    "date": "2024-09-13",
+    "isPaid": false
+  },
+  {
+    "id": "10",
+    "amount": 1800,
+    "category": "accommodation",
+    "description": "Aman Tokyo - 7 nights",
+    "date": "2024-04-01",
+    "isPaid": true
+  },
+  {
+    "id": "11",
+    "amount": 950,
+    "category": "transport",
+    "description": "Round-trip flights to Tokyo",
+    "date": "2024-03-28",
+    "isPaid": true
+  },
+  {
+    "id": "12",
+    "amount": 150,
+    "category": "food",
+    "description": "Tsukiji fish market food tour",
+    "date": "2024-04-03",
+    "isPaid": false
+  },
+  {
+    "id": "13",
+    "amount": 80,
+    "category": "entertainment",
+    "description": "Traditional tea ceremony experience",
+    "date": "2024-04-12",
+    "isPaid": false
+  },
+  {
+    "id": "14",
+    "amount": 2200,
+    "category": "accommodation",
+    "description": "Longitude 131° Uluru - 5 nights",
+    "date": "2024-08-20",
+    "isPaid": true
+  },
+  {
+    "id": "15",
+    "amount": 1100,
+    "category": "transport",
+    "description": "Domestic flights within Australia",
+    "date": "2024-08-18",
+    "isPaid": true
+  },
+  {
+    "id": "16",
+    "amount": 180,
+    "category": "entertainment",
+    "description": "Uluru-Kata Tjuta National Park tours",
+    "date": "2024-08-22",
+    "isPaid": false
+  },
+  {
+    "id": "17",
+    "amount": 1100,
+    "category": "accommodation",
+    "description": "Scandic Ishavshotel Tromsø - 10 nights",
+    "date": "2024-11-15",
+    "isPaid": true
+  },
+  {
+    "id": "18",
+    "amount": 750,
+    "category": "transport",
+    "description": "Flights to Northern Norway",
+    "date": "2024-11-12",
+    "isPaid": true
+  },
+  {
+    "id": "19",
+    "amount": 250,
+    "category": "entertainment",
+    "description": "Northern Lights tours and husky sledding",
+    "date": "2024-11-18",
+    "isPaid": false
+  },
+  {
+    "id": "20",
+    "amount": 1500,
+    "category": "accommodation",
+    "description": "La Mamounia Marrakech - 15 nights",
+    "date": "2024-03-10",
+    "isPaid": true
+  },
+  {
+    "id": "21",
+    "amount": 680,
+    "category": "transport",
+    "description": "Round-trip flights to Morocco",
+    "date": "2024-03-08",
+    "isPaid": true
+  },
+  {
+    "id": "22",
+    "amount": 420,
+    "category": "entertainment",
+    "description": "Sahara desert camel trek and camping",
+    "date": "2024-03-15",
+    "isPaid": false
+  },
+  {
+    "id": "23",
+    "amount": 2800,
+    "category": "accommodation",
+    "description": "Eichardt's Private Hotel - 10 nights",
+    "date": "2024-01-15",
+    "isPaid": true
+  },
+  {
+    "id": "24",
+    "amount": 1800,
+    "category": "transport",
+    "description": "International flights to New Zealand",
+    "date": "2024-01-12",
+    "isPaid": true
+  },
+  {
+    "id": "25",
+    "amount": 450,
+    "category": "entertainment",
+    "description": "Skydiving and Milford Sound cruise",
+    "date": "2024-01-17",
+    "isPaid": false
+  },
+  {
+    "id": "26",
+    "amount": 380,
+    "category": "food",
+    "description": "Waiheke Island wine tour",
+    "date": "2024-01-30",
+    "isPaid": false
+  },
+  {
+    "id": "27",
+    "amount": 1200,
+    "category": "accommodation",
+    "description": "Hotel Presidente San José - 16 nights",
+    "date": "2024-07-20",
+    "isPaid": true
+  },
+  {
+    "id": "28",
+    "amount": 720,
+    "category": "transport",
+    "description": "Round-trip flights to Costa Rica",
+    "date": "2024-07-18",
+    "isPaid": true
+  },
+  {
+    "id": "29",
+    "amount": 320,
+    "category": "entertainment",
+    "description": "National park tours and zip-lining",
+    "date": "2024-07-22",
+    "isPaid": false
+  },
+  {
+    "id": "30",
+    "amount": 950,
+    "category": "accommodation",
+    "description": "Belmond Hotel Monasterio - 15 nights",
+    "date": "2024-05-10",
+    "isPaid": true
+  },
+  {
+    "id": "31",
+    "amount": 680,
+    "category": "transport",
+    "description": "Flights to Peru and train to Machu Picchu",
+    "date": "2024-05-08",
+    "isPaid": true
+  },
+  {
+    "id": "32",
+    "amount": 280,
+    "category": "entertainment",
+    "description": "Machu Picchu and Sacred Valley tours",
+    "date": "2024-05-15",
+    "isPaid": false
+  },
+  {
+    "id": "33",
+    "amount": 2200,
+    "category": "accommodation",
+    "description": "Fairmont Banff Springs - 17 nights",
+    "date": "2024-07-01",
+    "isPaid": true
+  },
+  {
+    "id": "34",
+    "amount": 850,
+    "category": "transport",
+    "description": "Domestic flights and car rental",
+    "date": "2024-06-28",
+    "isPaid": true
+  },
+  {
+    "id": "35",
+    "amount": 420,
+    "category": "entertainment",
+    "description": "Lake Louise activities and Icefields Parkway",
+    "date": "2024-07-05",
+    "isPaid": false
+  }
+]

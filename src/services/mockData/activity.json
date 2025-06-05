@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1",
+    "title": "Eiffel Tower Visit",
+    "date": "2024-06-16",
+    "startTime": "09:00",
+    "endTime": "11:30",
+    "location": "Champ de Mars, 5 Avenue Anatole France, 75007 Paris",
+    "notes": "Book skip-the-line tickets in advance. Best views from Trocadéro for photos.",
+    "category": "sightseeing"
+  },
+  {
+    "id": "2",
+    "title": "Louvre Museum Tour",
+    "date": "2024-06-17",
+    "startTime": "10:00",
+    "endTime": "15:00",
+    "location": "Rue de Rivoli, 75001 Paris",
+    "notes": "Pre-book timed entry tickets. Focus on highlights: Mona Lisa, Venus de Milo, Winged Victory.",
+    "category": "sightseeing"
+  },
+  {
+    "id": "3",
+    "title": "Seine River Dinner Cruise",
+    "date": "2024-06-19",
+    "startTime": "19:30",
+    "endTime": "22:00",
+    "location": "Port de la Bourdonnais, 75007 Paris",
+    "notes": "Romantic evening cruise with 3-course dinner and panoramic city views.",
+    "category": "entertainment"
+  },
+  {
+    "id": "4",
+    "title": "Colosseum & Roman Forum",
+    "date": "2024-06-24",
+    "startTime": "08:30",
+    "endTime": "12:00",
+    "location": "Piazza del Colosseo, 1, 00184 Roma",
+    "notes": "Early morning visit to avoid crowds. Combo ticket includes Palatine Hill.",
+    "category": "sightseeing"
+  },
+  {
+    "id": "5",
+    "title": "Vatican Museums & Sistine Chapel",
+    "date": "2024-06-25",
+    "startTime": "14:00",
+    "endTime": "17:30",
+    "location": "Viale Vaticano, 00165 Roma",
+    "notes": "Book guided tour for skip-the-line access. Photography not allowed in Sistine Chapel.",
+    "category": "sightseeing"
+  },
+  {
+    "id": "6",
+    "title": "Trastevere Food Tour",
+    "date": "2024-06-27",
+    "startTime": "18:00",
+    "endTime": "21:00",
+    "location": "Trastevere neighborhood, Roma",
+    "notes": "Walking food tour featuring authentic Roman cuisine and local wine tastings.",
+    "category": "food"
+  },
+  {
+    "id": "7",
+    "title": "Sagrada Familia Visit",
+    "date": "2024-07-01",
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "location": "Carrer de Mallorca, 401, 08013 Barcelona",
+    "notes": "Audio guide included. Tower access requires separate booking.",
+    "category": "sightseeing"
+  },
+  {
+    "id": "8",
+    "title": "Park Güell Exploration",
+    "date": "2024-07-02",
+    "startTime": "09:00",
+    "endTime": "11:30",
+    "location": "Carrer d'Olot, s/n, 08024 Barcelona",
+    "notes": "Timed entry required. Best views of Barcelona from the main terrace.",
+    "category": "sightseeing"
+  },
+  {
+    "id": "9",
+    "title": "Grand Palace & Wat Phra Kaew",
+    "date": "2024-09-11",
+    "startTime": "08:00",
+    "endTime": "12:00",
+    "location": "Na Phra Lan Rd, Phra Borom Maha Ratchawang, Phra Nakhon, Bangkok",
+    "notes": "Dress code strictly enforced. Avoid crowds by visiting early morning.",
+    "category": "sightseeing"
+  },
+  {
+    "id": "10",
+    "title": "Floating Market Tour",
+    "date": "2024-09-13",
+    "startTime": "06:00",
+    "endTime": "12:00",
+    "location": "Damnoen Saduak Floating Market, Ratchaburi",
+    "notes": "Early departure required. Traditional long-tail boat transportation included.",
+    "category": "sightseeing"
+  },
+  {
+    "id": "11",
+    "title": "Cu Chi Tunnels Day Trip",
+    "date": "2024-09-20",
+    "startTime": "08:00",
+    "endTime": "17:00",
+    "location": "Cu Chi District, Ho Chi Minh City",
+    "notes": "Historical war tunnels tour with optional shooting range experience.",
+    "category": "sightseeing"
+  },
+  {
+    "id": "12",
+    "title": "Mekong Delta Cruise",
+    "date": "2024-09-22",
+    "startTime": "07:30",
+    "endTime": "18:00",
+    "location": "Mekong Delta, Vietnam",
+    "notes": "Full-day river cruise with traditional lunch and local village visits.",
+    "category": "sightseeing"
+  },
+  {
+    "id": "13",
+    "title": "Senso-ji Temple Visit",
+    "date": "2024-04-02",
+    "startTime": "09:00",
+    "endTime": "11:00",
+    "location": "2 Chome-3-1 Asakusa, Taito City, Tokyo",
+    "notes": "Tokyo's oldest temple. Perfect for cherry blossom viewing in April.",
+    "category": "sightseeing"
+  },
+  {
+    "id": "14",
+    "title": "Tsukiji Outer Market Food Tour",
+    "date": "2024-04-03",
+    "startTime": "05:30",
+    "endTime": "09:00",
+    "location": "Tsukiji, Chuo City, Tokyo",
+    "notes": "Early morning sushi breakfast and fresh seafood tasting experience.",
+    "category": "food"
+  },
+  {
+    "id": "15",
+    "title": "Shibuya & Harajuku Exploration",
+    "date": "2024-04-05",
+    "startTime": "14:00",
+    "endTime": "20:00",
+    "location": "Shibuya & Harajuku districts, Tokyo",
+    "notes": "Experience the famous Shibuya crossing and youth fashion culture.",
+    "category": "sightseeing"
+  },
+  {
+    "id": "16",
+    "title": "Fushimi Inari Shrine Hike",
+    "date": "2024-04-10",
+    "startTime": "07:00",
+    "endTime": "12:00",
+    "location": "68 Fukakusa Yabunouchicho, Fushimi Ward, Kyoto",
+    "notes": "Famous thousand torii gates trail. Early morning visit for fewer crowds.",
+    "category": "sightseeing"
+  },
+  {
+    "id": "17",
+    "title": "Traditional Tea Ceremony",
+    "date": "2024-04-12",
+    "startTime": "15:00",
+    "endTime": "17:00",
+    "location": "Gion district, Kyoto",
+    "notes": "Authentic Japanese tea ceremony experience in historic geisha district.",
+    "category": "entertainment"
+  },
+  {
+    "id": "18",
+    "title": "Uluru Sunrise Viewing",
+    "date": "2024-08-22",
+    "startTime": "05:30",
+    "endTime": "08:00",
+    "location": "Uluru-Kata Tjuta National Park",
+    "notes": "Sacred Aboriginal site. Spectacular sunrise colors over the monolith.",
+    "category": "sightseeing"
+  },
+  {
+    "id": "19",
+    "title": "Kata Tjuta Valley of the Winds Walk",
+    "date": "2024-08-24",
+    "startTime": "06:00",
+    "endTime": "11:00",
+    "location": "Kata Tjuta, Uluru-Kata Tjuta National Park",
+    "notes": "Moderate hiking trail with stunning rock formation views.",
+    "category": "sightseeing"
+  },
+  {
+    "id": "20",
+    "title": "Northern Lights Chase",
+    "date": "2024-11-18",
+    "startTime": "21:00",
+    "endTime": "02:00",
+    "location": "Tromsø Arctic wilderness",
+    "notes": "Aurora hunting expedition with professional photography guidance.",
+    "category": "sightseeing"
+  },
+  {
+    "id": "21",
+    "title": "Husky Sledding Adventure",
+    "date": "2024-11-20",
+    "startTime": "10:00",
+    "endTime": "15:00",
+    "location": "Tromsø wilderness area",
+    "notes": "Traditional dog sledding experience through Arctic landscapes.",
+    "category": "entertainment"
+  },
+  {
+    "id": "22",
+    "title": "Santa Claus Village",
+    "date": "2024-11-28",
+    "startTime": "10:00",
+    "endTime": "16:00",
+    "location": "Tähtikuja 1, 96930 Rovaniemi",
+    "notes": "Official hometown of Santa Claus. Cross the Arctic Circle line.",
+    "category": "entertainment"
+  },
+  {
+    "id": "23",
+    "title": "Reindeer Farm Visit",
+    "date": "2024-11-29",
+    "startTime": "11:00",
+    "endTime": "14:00",
+    "location": "Rovaniemi countryside",
+    "notes": "Meet Sami reindeer herders and learn about traditional Arctic life.",
+    "category": "sightseeing"
+  },
+  {
+    "id": "24",
+    "title": "Medina Walking Tour",
+    "date": "2024-03-12",
+    "startTime": "09:00",
+    "endTime": "13:00",
+    "location": "Marrakech Medina",
+    "notes": "Guided tour through the ancient walled city and bustling souks.",
+    "category": "sightseeing"
+  },
+  {
+    "id": "25",
+    "title": "Sahara Desert Camel Trek",
+    "date": "2024-03-15",
+    "startTime": "14:00",
+    "endTime": "next day 10:00",
+    "location": "Erg Chebbi, Merzouga",
+    "notes": "Overnight desert camping with traditional Berber dinner under stars.",
+    "category": "entertainment"
+  },
+  {
+    "id": "26",
+    "title": "Skydiving over Queenstown",
+    "date": "2024-01-17",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "location": "Queenstown Airport",
+    "notes": "Tandem skydive with spectacular views of Lake Wakatipu and The Remarkables.",
+    "category": "entertainment"
+  },
+  {
+    "id": "27",
+    "title": "Milford Sound Cruise",
+    "date": "2024-01-20",
+    "startTime": "08:00",
+    "endTime": "18:00",
+    "location": "Milford Sound, Fiordland National Park",
+    "notes": "Full-day scenic cruise through stunning fjord with wildlife viewing.",
+    "category": "sightseeing"
+  },
+  {
+    "id": "28",
+    "title": "Sky Tower & Harbor Bridge",
+    "date": "2024-01-28",
+    "startTime": "14:00",
+    "endTime": "17:00",
+    "location": "Auckland CBD",
+    "notes": "City's iconic landmarks with panoramic harbor views.",
+    "category": "sightseeing"
+  },
+  {
+    "id": "29",
+    "title": "Waiheke Island Wine Tour",
+    "date": "2024-01-30",
+    "startTime": "10:00",
+    "endTime": "17:00",
+    "location": "Waiheke Island",
+    "notes": "Ferry trip to island paradise with boutique winery visits and tastings.",
+    "category": "food"
+  },
+  {
+    "id": "30",
+    "title": "Manuel Antonio National Park",
+    "date": "2024-07-22",
+    "startTime": "08:00",
+    "endTime": "16:00",
+    "location": "Manuel Antonio, Puntarenas Province",
+    "notes": "Wildlife spotting and pristine beach visits in protected rainforest.",
+    "category": "sightseeing"
+  },
+  {
+    "id": "31",
+    "title": "Monteverde Cloud Forest",
+    "date": "2024-07-25",
+    "startTime": "07:00",
+    "endTime": "15:00",
+    "location": "Monteverde, Puntarenas Province",
+    "notes": "Zip-line canopy tour through mystical cloud forest ecosystem.",
+    "category": "entertainment"
+  },
+  {
+    "id": "32",
+    "title": "Machu Picchu Sunrise",
+    "date": "2024-05-15",
+    "startTime": "05:00",
+    "endTime": "12:00",
+    "location": "Machu Picchu, Urubamba Province",
+    "notes": "Early morning train to witness sunrise over the Lost City of the Incas.",
+    "category": "sightseeing"
+  },
+  {
+    "id": "33",
+    "title": "Sacred Valley Tour",
+    "date": "2024-05-18",
+    "startTime": "09:00",
+    "endTime": "17:00",
+    "location": "Sacred Valley, Cusco Region",
+    "notes": "Visit Pisac markets and Ollantaytambo fortress ruins.",
+    "category": "sightseeing"
+  },
+  {
+    "id": "34",
+    "title": "Lake Louise Canoeing",
+    "date": "2024-07-05",
+    "startTime": "10:00",
+    "endTime": "14:00",
+    "location": "Lake Louise, Banff National Park",
+    "notes": "Paddle across the stunning turquoise glacial lake surrounded by peaks.",
+    "category": "entertainment"
+  },
+  {
+    "id": "35",
+    "title": "Icefields Parkway Drive",
+    "date": "2024-07-08",
+    "startTime": "08:00",
+    "endTime": "18:00",
+    "location": "Icefields Parkway, Alberta",
+    "notes": "Scenic drive through one of the world's most beautiful mountain highways.",
+    "category": "sightseeing"
+  }
+]
